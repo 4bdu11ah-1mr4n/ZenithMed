@@ -1,0 +1,186 @@
+{
+    "medicines": [
+        {
+            "name": "Paracetamol",
+            "shortDescription": "Pain reliever and a fever reducer",
+            "description": "Paracetamol is used to treat many conditions such as headache, muscle aches, arthritis, backache, toothaches, colds, and fevers.",
+            "price": 5.99,
+            "ingredients": "Acetaminophen",
+            "uses": "Relieves pain and reduces fever",
+            "sideEffects": "Nausea, vomiting, loss of appetite",
+            "image": "images/paracetamol.jpg"
+        },
+        
+        {
+            "name": "Ibuprofen",
+            "shortDescription": "Nonsteroidal anti-inflammatory drug",
+            "description": "Ibuprofen is used to reduce fever and treat pain or inflammation caused by many conditions such as headache, toothache, back pain, arthritis, menstrual cramps, or minor injury.",
+            "price": 7.49,
+            "ingredients": "Ibuprofen",
+            "uses": "Reduces fever, pain, and inflammation",
+            "sideEffects": "Upset stomach, nausea, vomiting",
+            "image": "images/ibuprofen.jpg"
+        
+        },
+
+        
+            {
+                "name": "Aspirin",
+                "shortDescription": "Nonsteroidal anti-inflammatory drug",
+                "description": "Aspirin is used to relieve pain, reduce inflammation, and lower fever. It is commonly used for headaches, muscle pain, toothaches, and arthritis.",
+                "price": 3.99,
+                "ingredients": "Aspirin",
+                "uses": "Relieves pain, reduces inflammation, lowers fever",
+                "sideEffects": "Upset stomach, heartburn, nausea",
+                "image": "images/aspirin.jpg"
+              },
+              {
+                "name": "Acetaminophen",
+                "shortDescription": "Analgesic and antipyretic drug",
+                "description": "Acetaminophen is used to relieve mild to moderate pain and reduce fever. It is commonly used for headaches, muscle aches, arthritis, and fevers.",
+                "price": 4.99,
+                "ingredients": "Acetaminophen",
+                "uses": "Relieves pain, reduces fever",
+                "sideEffects": "Rare but may include liver damage if taken in high doses",
+                "image": "images/acetaminophen.jpg"
+              },
+              {
+                "name": "Naproxen",
+                "shortDescription": "Nonsteroidal anti-inflammatory drug",
+                "description": "Naproxen is used to relieve pain, reduce inflammation, and lower fever. It is commonly used for headaches, muscle pain, arthritis, menstrual cramps, and minor injuries.",
+                "price": 6.49,
+                "ingredients": "Naproxen",
+                "uses": "Relieves pain, reduces inflammation, lowers fever",
+                "sideEffects": "Upset stomach, heartburn, nausea",
+                "image": "images/naproxen.png"
+              },
+              {
+                "name": "Ranitidine",
+                "shortDescription": "H2 receptor antagonist",
+                "description": "Ranitidine is used to reduce the production of stomach acid. It is commonly prescribed for the treatment of acid reflux, ulcers, and heartburn.",
+                "price": 7.99,
+                "ingredients": "Ranitidine",
+                "uses": "Reduces stomach acid production",
+                "sideEffects": "Headache, diarrhea, constipation",
+                "image": "images/Ranitidine.jpg"
+              },
+              {
+                "name": "Loratadine",
+                "shortDescription": "Antihistamine",
+                "description": "Loratadine is used to relieve symptoms of allergies such as sneezing, runny nose, itching, and watery eyes. It is also used to relieve itching and hives.",
+                "price": 5.99,
+                "ingredients": "Loratadine",
+                "uses": "Relieves allergy symptoms",
+                "sideEffects": "Drowsiness, dry mouth, headache",
+                "image": "images/loratadine.jpg"
+              }
+            
+        
+
+        
+    ],
+
+    "vendors": [
+        {
+            "name": "HealthCorp",
+            "address": "1234 Health St, Wellness City, HealthyState",
+            "contact": "healthcorp@example.com",
+            "image": "images/vendor1.png"
+        },
+        {
+            "name": "PharmaPlus",
+            "address": "5678 Pharma Ave, MedicTown, CureState",
+            "contact": "pharmaplus@example.com",
+            "image": "images/vendor22.jpg"
+        }
+    ],
+    "employees": [
+        {
+            "name": "John Doe",
+            "role": "Chief Pharmacist",
+            "contact": "john.doe@example.com",
+            "achievements": "Ph.D. in Pharmacy, 10+ years of experience in the pharmaceutical industry",
+            "image": "images/john_doe.jpg"
+        },
+
+        {
+            "name": "Michael Johnson",
+            "role": "Quality Assurance Manager",
+            "contact": "michael.johnson@example.com",
+            "achievements": "Bachelor's degree in Chemistry, Certified Quality Auditor, 8+ years of experience in quality assurance",
+            "image": "images/michael_johnson.jpg"
+          },
+
+          {
+            "name": "Emily Chen",
+            "role": "Clinical Research Coordinator",
+            "contact": "emily.chen@example.com",
+            "achievements": "Bachelor's degree in Biology, Certified Clinical Research Professional, 6+ years of experience in coordinating clinical trials",
+            "image": "images/emily_chen.jpg"
+          },
+
+        {
+            "name": "Jane Smith",
+            "role": "Research Scientist",
+            "contact": "jane.smith@example.com",
+            "achievements": "M.Sc. in Biochemistry, Lead researcher on 5+ projects",
+            "image": "images/jane_smith.jpg"
+        }
+    ],
+    "projects": [
+        {
+            "name": "COVID-19 Vaccine Development",
+            "shortDescription": "Development of an effective COVID-19 vaccine",
+            "details": "This project focuses on developing a vaccine to combat the COVID-19 virus. It includes clinical trials and global distribution plans.",
+            "status": "In Progress",
+            "location": "Global",
+            "objectives": "To develop a safe and effective vaccine for COVID-19",
+            "image": "images/project1.jpg"
+        },
+        {
+            "name": "Cancer Treatment Research",
+            "shortDescription": "Innovative treatments for cancer",
+            "details": "Researching new treatment methods for various types of cancer, focusing on personalized medicine and targeted therapy.",
+            "status": "Completed",
+            "location": "USA",
+            "objectives": "To find new and effective treatments for cancer",
+            "image": "images/project2.jpg"
+        },
+        {
+            "name": "Cardiovascular Disease Prevention",
+            "shortDescription": "Preventing heart diseases through lifestyle interventions",
+            "details": "Implementing community-based programs to promote healthy lifestyles and reduce the risk factors associated with cardiovascular diseases.",
+            "status": "Ongoing",
+            "location": "Europe",
+            "objectives": "To reduce the incidence of cardiovascular diseases and improve heart health in the community",
+            "image": "images/project4.jpg"
+          },
+          {
+            "name": "Neurodegenerative Disorder Research",
+            "shortDescription": "Investigating therapies for neurodegenerative disorders",
+            "details": "Conducting clinical trials to evaluate the efficacy of novel treatments for neurodegenerative diseases such as Alzheimer's and Parkinson's.",
+            "status": "In Progress",
+            "location": "Canada",
+            "objectives": "To develop effective therapies to slow down or halt the progression of neurodegenerative disorders",
+            "image": "images/project3.jpg"
+          },
+          {
+            "name": "Diabetes Management Initiative",
+            "shortDescription": "Improving diabetes care through innovative approaches",
+            "details": "Developing digital health tools and patient education programs to enhance diabetes management and improve health outcomes.",
+            "status": "Upcoming",
+            "location": "Asia",
+            "objectives": "To empower individuals with diabetes to better manage their condition and improve their quality of life",
+            "image": "images/project5.jpg"
+          },
+          {
+            "name": "Mental Health Awareness Campaign",
+            "shortDescription": "Raising awareness about mental health issues",
+            "details": "Launching a multimedia campaign to destigmatize mental illness, promote mental well-being, and increase access to mental health resources.",
+            "status": "Planned",
+            "location": "Worldwide",
+            "objectives": "To foster understanding, support, and acceptance for individuals affected by mental health conditions",
+            "image": "images/project6.jpg"
+          }
+    ]
+}
